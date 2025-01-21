@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.project-card-image {
+    height: 30vh;
+    padding: 4px;
+    margin: 16px;
+}
+
+.main-heading {
+    color: #183b56;
+    font-family: bree serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 23px;
+}
+
+.paragraph {
+    color: #616e7c;
+    font-family: bree serif;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.myprojects-card-image {
+    height: 20vh;
+    width: 40vw;
+    margin: 10px;
+}
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 200vh;
+    background-size: cover;
+}
+
+.card {
+    background-color: #ffffff;
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+
+}
+
+.main-heading1 {
+    color: #5752ab;
+    font-size: 25px;
+    margin: 10px;
+    font-weight: bold;
+    font-family: Bree Serif;
+
+}
+
+.paragraph1 {
+    color: #323f4b;
+    font-family: Roboto;
+    margin: 8px;
+}
+
+.button1 {
+    background-color: #ffffff;
+    border-color: #d7dfe9;
+    color: #171f46;
+    margin: 15px;
+    border-radius: 7px;
+    height: 36px;
+    width: 130px;
+    padding: 1px;
+    text-align: center;
+}
+
+.btn {
+    background-color: #0790fa;
+    color: white;
+    height: 36px;
+    width: 100px;
+    text-align: center;
+    margin: 15px;
+    padding: 1px;
+
+}
+
+.diwali-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 50vh;
+    background-size: cover;
+}
+
+.diwali-top-section-heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 40px;
+    width: 200px;
+    padding: 30px;
+}
+
+.diwali-bottom-section {
+    text-align: center;
+    background-color: #e6f6ff;
+    padding: 15px;
+}
+
+.diwali-card-item {
+    text-align: center;
+    background-color: white;
+    width: 140px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 15px;
+}
+
+.diwali-card-image {
+    height: 64px;
+    width: 64px;
+}
+
+.diwali-card-name {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.diwali-card-price {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.bg-container1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    height: 200vh;
+    background-size: cover;
+}
+
+.card1 {
+    text-align: center;
+    background-color: #f6c56e;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    position: end;
+    padding: 20px;
+}
+
+.main-heading2 {
+    text-align: left;
+    font-family: Bree Serif;
+}
+
+.paragraph2 {
+    text-align: left;
+    font-family: Roboto;
+    font-weight: bold;
+
+}
+
+.button {
+    position: left;
+    background-color: #ffffff;
+    font-family: Roboto;
+    height: 40px;
+    width: 130px;
+    border-radius: 3px;
+    bottom: 10px;
+    margin: 6px;
+}
+
+.btn1 {
+    background-color: #0790fa;
+    color: white;
+    height: 40px;
+    width: 100px;
+    text-align: center;
+    margin: 15px;
+    padding: 1px;
+    margin: 6px;
+}
+
+.bg-container2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    height: 170vh;
+    background-size: cover;
+}
+
+.card2 {
+    background-color: #ffffff;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 8px;
+
+}
+
+.paragraph3 {
+    color: #7b8794;
+    margin: 12px;
+    padding: 8px;
+
+}
+
+.main-heading3 {
+    color: #323f4b;
+    font-size: 27px;
+    margin: 12px;
+    padding: 6px;
+    font-weight: bold;
+
+}
+
+.paragraph4 {
+    color: #7b8794;
+    margin: 24px;
+    padding: 6px;
+    margin: 12px;
+}
+
+.button2 {
+    color: #ffffff;
+    background-color: #323f4b;
+    width: 120px;
+    border-radius: 10px;
+    font-size: 15px;
+    height: 40px;
+    margin: 12px;
+    padding: 6px;
+}
+
+.btn2 {
+    background-color: #0790fa;
+    color: white;
+    height: 40px;
+    width: 80px;
+    text-align: center;
+    margin: 12px;
+    padding: 6px;
+    border-radius: 8px;
+
+}
